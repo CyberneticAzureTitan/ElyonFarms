@@ -1,4 +1,2 @@
-pickle
-pathlib
 streamlit-option-menu
 streamlit
